@@ -22,11 +22,11 @@
    4. Price-to-Equity Ratio, 
    5. Profit or Loss.
 
-# Non functional requirements:
+# Non-Functional requirements:
 1. scalability
 2. efficiency
 3. extensibility
-4. Flexiblility
+4. Flexibilility
 5. Modifiability
 6. Response time
 7. Readability
