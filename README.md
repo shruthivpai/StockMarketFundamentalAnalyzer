@@ -1,3 +1,3 @@
-# StockMarketFundamentalAnalyzer
-The main aim of this project is to help newbies to get the basic financial ratios like dividend yield ratio, debt-to-equity ratio, price-to-earnings ratio and many more. Thus, they can decide which is the suitable company to invest in and earn profit from the share market.
+# Stock Market Fundamental Analyzer
+Stock market fundamental analyzer is a type of application which calculates the fundamental financial ratios based on the basic information such as net income of the company, market value of the share, etc. which is easily available in the balance sheet provided by the company. 
 
