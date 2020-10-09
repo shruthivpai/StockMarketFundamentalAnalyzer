@@ -4,6 +4,7 @@ System requirements:
 -Programming language: C
 -Compiler: MinGW compiler
 -Memory: 256 MB
+-Makefile generated using Dev C++
 
 Functions Required:
 -Float dividendYieldRatio() is required to calculate the dividend yield ratio in percentage.
