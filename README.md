@@ -1,2 +1,2 @@
 # StockMarketFundamentalAnalyzer
-stock market
+Stock Market Fundamental Analyzer
